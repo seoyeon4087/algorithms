@@ -30,11 +30,5 @@ public class Calculator {
         System.out.println("첫번째 숫자"+number1);
         System.out.println("두번째 문자"+number2);
         System.out.println("연산결과"+ result);
-
-
-
-
+        }
     }
-
-
-}
